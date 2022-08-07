@@ -5,9 +5,9 @@ I'm React Developer, Mid Front-End Developer and Computer Engineer
 - 🔭 I’m currently working on Solera COE, Sevilla
 - 💬 I love to work applying SOLID, TDD, BDD and Clean Code
 - 🌱 I like to code in any language, but I mostly code with Javascript
-- :computer: I would like to learn Python and JavaScript in a near future
+- :computer: I would like to learn Python and Kotlin
 - 📫 Professional Github Account (https://github.com/raualvron
-- :newspaper: LinkedIn account(https://www.linkedin.com/in/luisnunezgomez
+- :newspaper: LinkedIn account(https://www.linkedin.com/in/raualvron
 - Formerly at:
   - Solera CoE, Spain.
   - Wellness Telecom, Spain.
