@@ -6,8 +6,8 @@ I'm React Developer, Mid Front-End Developer and Computer Engineer
 - 💬 I love to work applying SOLID, TDD, BDD and Clean Code
 - 🌱 I like to code in any language, but I mostly code with Javascript
 - :computer: I would like to learn Python and Kotlin
-- 📫 Professional Github Account (https://github.com/raualvron
-- :newspaper: LinkedIn account(https://www.linkedin.com/in/raualvron
+- 📫 Professional Github Account https://github.com/raualvron
+- :newspaper: LinkedIn account https://www.linkedin.com/in/raualvron
 - Formerly at:
   - Solera CoE, Spain.
   - Wellness Telecom, Spain.
@@ -35,7 +35,7 @@ I'm React Developer, Mid Front-End Developer and Computer Engineer
 <img align="left" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/ember.js-E04E39?style=for-the-badge&logo=emberdotjs&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<br/>
+<p>&nbsp;</p>
 <img align="left" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img align="left" src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white"/>
@@ -45,7 +45,7 @@ I'm React Developer, Mid Front-End Developer and Computer Engineer
 <img align="left" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="left" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<br/><br/>
+<p>&nbsp;</p>
 <img align="left" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/underscore%20js-0371B5?style=for-the-badge&logo=underscore.js&logoColor=white"/>
 
