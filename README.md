@@ -46,5 +46,7 @@ I'm React Developer, Mid Front-End Developer and Computer Engineer
 <span style="margin-bottom: 10px"><img align="left" style="margin-bottom: 10px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/></span>
 <span style="margin-bottom: 10px"><img align="left" style="margin-bottom: 10px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></span>
 <span style="margin-bottom: 10px"><img align="left" style="margin-bottom: 10px" src="https://img.shields.io/badge/underscore%20js-0371B5?style=for-the-badge&logo=underscore.js&logoColor=white"/></span>
-<br/><br/>
+
+<br/><br/><br/><br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raualvron)](https://github.com/raualvron/github-readme-stats)
